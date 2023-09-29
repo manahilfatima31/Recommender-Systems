@@ -1,4 +1,4 @@
-Aim of the project
+# Aim of the project
 In today’s fast-paced society, finding the perfect dining spot can be a daunting task amidst
 the vast sea of options available. Fortunately, technology comes to our rescue with innovative
 solutions like content-based filtering. Our project aims to design and develop a restaurant
@@ -9,7 +9,7 @@ tailored top ten restaurant recommendations, ensuring an enhanced dining experie
 every individual. So, join us as we dive into the realm of content-based filtering and explore
 the endless possibilities it offers in revolutionizing the way we discover and enjoy culinary
 delights.
-Methodology
+# Methodology
 The content-based restaurant recommendation system, utilizing the Zomato dataset, follows
 a comprehensive methodology to provide personalized suggestions. Initially, unnecessary
 columns are identified and removed, streamlining the dataset for efficient analysis. Duplicates are then eliminated to ensure data integrity and accuracy. The subsequent step
@@ -29,8 +29,7 @@ recommendation generation. By leveraging these methodologies, the system assists
 discovering restaurants that best match their individual preferences, revolutionizing the way
 they explore and enjoy culinary delights.
 
-Tools, Technologies &
-Programming Concepts Used
+# Tools, Technologies & Programming Concepts Used
 Tools Used
 1. PyCharm and Jupyter Notebook
 2. Content Based Filtering
@@ -42,7 +41,7 @@ Tools Used
 8. NLTK
 9. Streamlit
 
-Applications
+# Applications
 The content-based restaurant recommendation system using the Zomato dataset has a wide
 range of real-world applications. Firstly, it enables individuals to enjoy a personalized dining
 experience by providing restaurant suggestions tailored to their preferences, dietary
@@ -60,7 +59,7 @@ of culinary experiences. Overall, the content-based restaurant recommendation sy
 serves as a valuable tool across various domains, enriching user experiences, promoting
 exploration, and facilitating informed decision-making.
 
-Timeline
+# Timeline
 Stage 1 Base structure including collecitng the data, researching
 about the project and considering the feasibility to use
 our preferred recommendation system technique.
@@ -74,7 +73,7 @@ Stage 4 Implementing the system with streamlit so that the project
 has a prettier face and an easier to read interface, testing
 out final bugs also included in this stage.
 
-Conclusion
+# Conclusion
 In conclusion, the development of the content-based restaurant recommendation system
 using the Zomato dataset has showcased its potential to revolutionize the way individuals
 discover and enjoy dining experiences. Through a systematic approach encompassing data
